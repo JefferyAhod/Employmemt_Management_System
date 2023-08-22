@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1664510675 source:c:\users\user\desktop\ce oops\assignment 0\main.cpp
+	<iostream>
+	"Salaried_Employee.h"
+	<Employee.h>
+	"Hourly_Employee.h"
+	"Commissioned_Employee.h"
+
+1663109405 c:\users\user\desktop\ce oops\assignment 0\include\salaried_employee.h
+	<Employee.h>
+	<string>
+
+1663109185 c:\users\user\desktop\ce oops\assignment 0\include\employee.h
+
+1663109717 c:\users\user\desktop\ce oops\assignment 0\include\hourly_employee.h
+	<string>
+	<Employee.h>
+
+1663109222 c:\users\user\desktop\ce oops\assignment 0\include\commissioned_employee.h
+	<Employee.h>
+	<string>
+
+1663109185 source:c:\users\user\desktop\ce oops\assignment 0\src\employee.cpp
+	"Employee.h"
+
+1663111574 source:c:\users\user\desktop\ce oops\assignment 0\src\hourly_employee.cpp
+	"Hourly_Employee.h"
+	<iostream>
+
+1663109747 source:c:\users\user\desktop\ce oops\assignment 0\src\commissioned_employee.cpp
+	"Commissioned_Employee.h"
+	<iostream>
+
+1663111462 source:c:\users\user\desktop\ce oops\assignment 0\src\salaried_employee.cpp
+	"Salaried_Employee.h"
+	<string>
+	<iostream>
+
+1664521216 source:c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\src\commissioned_employee.cpp
+	"Commissioned_Employee.h"
+	<iostream>
+
+1663109222 c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\include\commissioned_employee.h
+	<Employee.h>
+	<string>
+
+1663109185 c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\include\employee.h
+
+1663109185 source:c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\src\employee.cpp
+	"Employee.h"
+
+1663111574 source:c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\src\hourly_employee.cpp
+	"Hourly_Employee.h"
+	<iostream>
+
+1663109717 c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\include\hourly_employee.h
+	<string>
+	<Employee.h>
+
+1664796513 source:c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\main.cpp
+	<iostream>
+	"Salaried_Employee.h"
+	<Employee.h>
+	"Hourly_Employee.h"
+	"Commissioned_Employee.h"
+
+1663109405 c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\include\salaried_employee.h
+	<Employee.h>
+	<string>
+
+1664795674 source:c:\users\user\desktop\folders\ce oops\assignment jeffery ahodokpo15\src\salaried_employee.cpp
+	"Salaried_Employee.h"
+	<string>
+	<iostream>
+

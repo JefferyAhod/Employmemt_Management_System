@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\Hourly_Employee.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="669" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="src\Salaried_Employee.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="546" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Employee.h" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="228" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Commissioned_Employee.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1081" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="src\Employee.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="63" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Commissioned_Employee.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="507" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="include\Salaried_Employee.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="432" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="include\Hourly_Employee.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="482" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="076b8a2064e4f33b0001316700000003=0;assignment 0:main.cpp,1;assignment 0:include\Salaried_Employee.h,2;assignment 0:src\Salaried_Employee.cpp,3;assignment 0:include\Hourly_Employee.h,4;assignment 0:src\Hourly_Employee.cpp,5;assignment 0:include\Commissioned_Employee.h,6;assignment 0:src\Commissioned_Employee.cpp,*7;assignment 0:include\Employee.h,8;assignment 0:src\Employee.cpp@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=618;besth=184;minw=618;minh=184;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=076b8a2064e4f33b0001316700000003;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>
